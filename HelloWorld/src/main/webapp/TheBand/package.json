@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10"
+  },
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.4.4"
+  },
+  "scripts": {
+    "build": "npx tailwindcss -i ./assest/css/base2.css -o ./assest/css/style.css --watch"
+  }
+}

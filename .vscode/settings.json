@@ -1,0 +1,20 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.https": {
+        "enable": true
+    },
+    "liveServer.settings.ignoreFiles": [
+
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
+    "liveServer.settings.useWebExt": false,
+    "liveServer.settings.proxy": {
+        "proxyUri": "http://localhost:8080"
+    },
+    "liveServer.settings.multiRootWorkspaceName": "D:/java/JAVA101",
+
+}

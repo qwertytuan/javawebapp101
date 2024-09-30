@@ -1,0 +1,35 @@
+2024-09-12 20:53:52,690 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-12 21:09:11,221 [main] INFO  org.eclipse.jetty.server.Server - jetty-12.0.12; built: 2024-07-25T21:58:37.668Z; git: cc6f1b74db755fed228b50701ad967aeaa68e83f; jvm 22.0.2+9
+2024-09-12 21:09:11,320 [main] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@ff4319f{/wse,/wse,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@65c69715{STARTED}}
+2024-09-12 21:09:11,322 [main] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-09-12 21:09:11,365 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7f7ce77f{HTTP/1.1, (http/1.1)}{0.0.0.0:54838}
+2024-09-12 21:09:11,373 [main] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@3adea362{STARTING}[12.0.12,sto=0] @931712ms
+2024-09-12 21:09:11,914 [qtp991017276-429] INFO  o.e.j.e.nested.ContextHandler._wse - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2024-09-12 21:17:00,893 [Framework stop - Equinox Container: c9a22c62-f4de-4f5a-a04b-5c2e9d214489] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@3adea362{STOPPING}[12.0.12,sto=0]
+2024-09-12 21:17:00,897 [Framework stop - Equinox Container: c9a22c62-f4de-4f5a-a04b-5c2e9d214489] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7f7ce77f{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2024-09-14 08:30:23,663 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-14 09:40:14,065 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-19 10:22:16,974 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-19 10:27:52,927 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-19 16:22:18,097 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-20 10:51:23,693 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-20 11:00:59,832 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-20 11:17:13,983 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-21 08:26:15,472 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-21 10:18:59,397 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-22 18:07:52,723 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-22 18:09:33,039 [main] INFO  org.eclipse.jetty.server.Server - jetty-12.0.12; built: 2024-07-25T21:58:37.668Z; git: cc6f1b74db755fed228b50701ad967aeaa68e83f; jvm 22.0.2+9
+2024-09-22 18:09:33,094 [main] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@2cbad233{/wse,/wse,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@55ee9b9b{STARTED}}
+2024-09-22 18:09:33,095 [main] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-09-22 18:09:33,122 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4a38c42e{HTTP/1.1, (http/1.1)}{0.0.0.0:59449}
+2024-09-22 18:09:33,147 [main] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@47120b41{STARTING}[12.0.12,sto=0] @114820ms
+2024-09-22 18:09:33,565 [qtp670451795-141] INFO  o.e.j.e.nested.ContextHandler._wse - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2024-09-22 18:10:26,082 [Framework stop - Equinox Container: 39f7c78a-a62a-4105-b74f-86e6962e06a3] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@47120b41{STOPPING}[12.0.12,sto=0]
+2024-09-22 18:10:26,084 [Framework stop - Equinox Container: 39f7c78a-a62a-4105-b74f-86e6962e06a3] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4a38c42e{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2024-09-26 16:26:19,329 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-26 16:58:53,664 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-26 17:32:26,134 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-28 08:29:24,545 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-28 21:57:33,417 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-28 22:41:11,139 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-30 10:19:34,451 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

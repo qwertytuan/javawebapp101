@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="D:/Thuc_tap/TheBand/assest/css/style.css">
+    <link rel="stylesheet" href="D:/Thuc_tap/TheBand/assest/css/base.css">
+    <link rel="stylesheet" href="D:/Thuc_tap/TheBand/assest/font/font.css">
+    <title>The Band</title>
+</head>
+<body>
+  <div class="header flex bg-black w-full fixed items-center z-20 top-0 justify-between sm:justify-start" id="">
+    <a href=""
+        class="header__link text-white bg-black flex items-center h-12 max-w-32 py-3 px-6 hover:bg-hover-bg hover:text-black">HOME</a>
+    <a href="#band"
+        class="header__link text-white bg-black hidden items-center h-12 max-w-32 py-3 px-6 hover:bg-hover-bg hover:text-black sm:flex">BAND</a>
+    <a href="#tour"
+        class="header__link text-white bg-black hidden items-center h-12 max-w-32 py-3 px-6 hover:bg-hover-bg hover:text-black sm:flex">TOUR</a>
+    <a href="#contact"
+        class="header__link text-white bg-black hidden items-center h-12 max-w-32 py-3 px-6 hover:bg-hover-bg hover:text-black sm:flex">CONTACT</a>
+
+<!-- normal -->
+<div class="no-style relative group hidden sm:flex">
+<button title="MORE"
+    class="header__navbar-more text-white bg-black flex items-center h-12 max-w-32 py-3 px-6 group-hover:text-black group-hover:bg-hover-bg">
+    MORE
+    <i class="fa-solid fa-caret-down"></i>
+</button>
+<div
+    class="header__navbar-more-drop-down-menu hidden absolute left-0 top-12 bg-white text-black min-w-44 group-hover:block shadow-custom">
+    <a href=""
+        class="header__drop-down-link text-black flex items-center w-full px-6 py-2 hover:bg-hover-bg">Merch</a>
+    <a href=""
+        class="header__drop-down-link text-black flex items-center w-full px-6 py-2 hover:bg-hover-bg">Extras</a>
+    <a href=""
+        class="header__drop-down-link text-black flex items-center w-full px-6 py-2 hover:bg-hover-bg">Media</a>
+</div>
+</div>
+<!-- normal -->
+
+    <div class="header__navbar-search hidden items-center text-white px-6 py-3 h-12 ml-auto hover:bg-red-600 sm:flex">
+        <i class="fa-solid fa-magnifying-glass"></i>
+    </div>
+</div>
+
+<div class="no-style2 fixed top-0 w-full h-12 flex sm:hidden z-20 bg-transparent">
+  <button title="MORE"
+    class="header__navbar-more text-white bg-black flex items-center h-12 max-w-32 py-3 px-6 ml-auto group-hover:text-black group-hover:bg-hover-bg "
+    onclick="Dropdown();">
+    <i class="fa-solid fa-list text-2xl"></i>
+</button>
+  <div id="drop-down-menu"
+      class="header__navbar-more-drop-down-menu hidden flex-col absolute right-0 top-12 bg-white text-black w-fullriel shadow-custom">
+      <a href="#band"
+          class="header__link text-white bg-black flex flex-1 items-center h-12 py-3 px-6 hover:bg-hover-bg hover:text-black">BAND</a>
+      <a href="#tour"
+          class="header__link text-white bg-black flex flex-1 items-center h-12 py-3 px-6 hover:bg-hover-bg hover:text-black">TOUR</a>
+      <a href="#contact"
+          class="header__link text-white bg-black flex flex-1 items-center h-12 py-3 px-6 hover:bg-hover-bg hover:text-black">CONTACT</a>
+  </div>
+</div>
+
+</body>
+<script src="D:/Thuc_tap/TheBand/javascript/base.js"></script>
+
+</html>

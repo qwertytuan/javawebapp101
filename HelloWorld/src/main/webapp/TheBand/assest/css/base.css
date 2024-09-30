@@ -1,0 +1,45 @@
+*{
+    box-sizing: inherit;
+    margin: 0;
+
+}
+.body{
+margin: 0;
+position: relative;
+}
+html{
+    box-sizing: border-box;
+    font-family:'Lato Regular', sans-serif;
+
+}
+h1{
+    font-weight: 500;
+}
+p{
+    word-spacing: 2px;
+}
+html,body{
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+@keyframes SlideInOnTop{
+    from{
+        top:-300px;
+        opacity: 0;
+    }
+    to{
+        top:0;
+        opacity: 1;
+    }
+}
+@keyframes SlideOutOnTop{
+    from{
+        top:0;
+        opacity: 1;
+    }
+    to{
+        top:-300px;
+        opacity: 0;
+    }
+}

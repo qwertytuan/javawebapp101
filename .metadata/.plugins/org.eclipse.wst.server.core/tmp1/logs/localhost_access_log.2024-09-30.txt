@@ -1,0 +1,37 @@
+127.0.0.1 - - [30/Sep/2024:10:19:47 +0700] "GET / HTTP/1.1" 404 755
+0:0:0:0:0:0:0:1 - - [30/Sep/2024:10:19:48 +0700] "GET /HelloWorld/Testservlet02 HTTP/1.1" 200 22
+0:0:0:0:0:0:0:1 - - [30/Sep/2024:10:19:48 +0700] "GET /favicon.ico HTTP/1.1" 404 766
+172.25.48.13 - - [30/Sep/2024:10:20:47 +0700] "-" 400 2245
+172.25.48.13 - - [30/Sep/2024:10:20:47 +0700] "-" 400 2197
+172.25.48.13 - - [30/Sep/2024:10:20:48 +0700] "GET /HelloWorld/Testservlet02 HTTP/1.1" 200 22
+172.25.48.13 - - [30/Sep/2024:10:20:49 +0700] "GET /favicon.ico HTTP/1.1" 404 766
+172.25.48.13 - - [30/Sep/2024:10:21:08 +0700] "GET /HelloWorld/modal-test.html HTTP/1.1" 404 785
+0:0:0:0:0:0:0:1 - - [30/Sep/2024:10:21:29 +0700] "GET /HelloWorld/TheBand/html/modal-test.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Sep/2024:10:21:29 +0700] "GET /HelloWorld/TheBand/assest/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Sep/2024:10:21:29 +0700] "GET /HelloWorld/TheBand/assest/css/base.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Sep/2024:10:21:29 +0700] "GET /HelloWorld/TheBand/assest/img/la.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Sep/2024:10:21:29 +0700] "GET /HelloWorld/TheBand/assest/img/ny.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Sep/2024:10:21:29 +0700] "GET /HelloWorld/TheBand/javascript/base.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Sep/2024:10:21:29 +0700] "GET /HelloWorld/TheBand/assest/img/favicon_io/site.webmanifest HTTP/1.1" 304 -
+172.25.48.13 - - [30/Sep/2024:10:21:52 +0700] "GET /HelloWorld/TheBand/modal-test.html HTTP/1.1" 404 797
+172.25.48.13 - - [30/Sep/2024:10:22:08 +0700] "GET /HelloWorld/TheBand/html/modal-test.html HTTP/1.1" 200 27388
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/css/style.css HTTP/1.1" 200 18546
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/css/base.css HTTP/1.1" 200 588
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/chicago.jpg HTTP/1.1" 200 30675
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/la.jpg HTTP/1.1" 200 17761
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/font/font.css HTTP/1.1" 200 1926
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/ny.jpg HTTP/1.1" 200 21125
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/bandmember.jpg HTTP/1.1" 200 9571
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/sanfran.jpg HTTP/1.1" 200 16102
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/newyork.jpg HTTP/1.1" 200 33636
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/paris.jpg HTTP/1.1" 200 29529
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/map.jpg HTTP/1.1" 200 170615
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/javascript/base.js HTTP/1.1" 200 3716
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/font/Lato-Regular.woff HTTP/1.1" 200 45916
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/favicon_io/favicon-32x32.png HTTP/1.1" 200 912
+172.25.48.13 - - [30/Sep/2024:10:22:09 +0700] "GET /HelloWorld/TheBand/assest/img/favicon_io/apple-touch-icon.png HTTP/1.1" 200 6502
+172.25.48.13 - - [30/Sep/2024:10:22:24 +0700] "POST /HelloWorld/Testservlet02 HTTP/1.1" 200 154
+172.25.48.13 - - [30/Sep/2024:10:22:28 +0700] "POST /HelloWorld/Testservlet02 HTTP/1.1" 200 154
+172.25.48.13 - - [30/Sep/2024:10:24:09 +0700] "POST /HelloWorld/Testservlet02 HTTP/1.1" 200 154
+172.25.48.13 - - [30/Sep/2024:10:24:12 +0700] "POST /HelloWorld/Testservlet02 HTTP/1.1" 200 154
+172.25.48.13 - - [30/Sep/2024:10:24:22 +0700] "POST /HelloWorld/Testservlet02 HTTP/1.1" 200 148
